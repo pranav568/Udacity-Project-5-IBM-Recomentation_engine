@@ -10,7 +10,7 @@ Find out the distribution of articles a user interacts within the dataset and pr
 
 II. Rank Based Recommendations
 
-Provide two functions to get n top articles names and n top articles ids.
+Provide two functions to get n - top articles names and n top articles ids.
 
 
 III. User-User Based Collaborative Filtering
